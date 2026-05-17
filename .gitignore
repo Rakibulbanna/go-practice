@@ -73,3 +73,6 @@ testcontainers/
 # Temporary files
 *.tmp
 *.temp
+
+# Application binary
+go-practice
